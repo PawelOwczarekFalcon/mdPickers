@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23cf2c32-1b13-43ae-aa8f-9ecf4df25bc4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/mdpDatePicker/mdpDatePicker.js" afterPath="$PROJECT_DIR$/src/components/mdpDatePicker/mdpDatePicker.js" />
-    </list>
+    <list default="true" id="23cf2c32-1b13-43ae-aa8f-9ecf4df25bc4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -250,12 +246,12 @@
       <workItem from="1494491236682" duration="1639000" />
       <workItem from="1494497335684" duration="603000" />
       <workItem from="1494505450077" duration="10000" />
-      <workItem from="1494506891088" duration="536000" />
+      <workItem from="1494506891088" duration="567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2788000" />
+    <option name="totallyTimeSpent" value="2819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="-4" width="1871" height="1084" extended-state="6" />
